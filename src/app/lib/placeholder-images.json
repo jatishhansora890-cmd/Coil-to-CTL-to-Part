@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "factory-floor",
+      "description": "Industrial factory floor with steel coils",
+      "imageUrl": "https://picsum.photos/seed/alloy1/1200/800",
+      "imageHint": "steel factory"
+    },
+    {
+      "id": "steel-coil",
+      "description": "Large industrial steel coil",
+      "imageUrl": "https://picsum.photos/seed/alloy2/800/600",
+      "imageHint": "steel coil"
+    },
+    {
+      "id": "packing-tag",
+      "description": "Industrial packing tag on a metal product",
+      "imageUrl": "https://picsum.photos/seed/alloy3/400/600",
+      "imageHint": "packing label"
+    }
+  ]
+}
